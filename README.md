@@ -1,3 +1,22 @@
+# MyCRM
+Um simples cadastro de clientes com Laravel e Crudbooster
+
+## Requisitos:
+
+- php 7.4 +
+- mariadb 10 ou mysql 8
+- node
+- composer
+
+Intrucoes
+- faça download do repositorio; 
+- recrie o banco em backup/mycrm.sql
+- copie  o arquivo .env.exemplo para .env
+- coloque as credenciais no novo arquivo .env
+- abra um terminal e rode o comando php artisan serve
+
+-----------------------------------------------------------------------------------------
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
 
 <p align="center">
